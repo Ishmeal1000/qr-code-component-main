@@ -42,6 +42,7 @@ p {
 
 #card img {
   width: 90%;
+  height: auto;
   margin: auto;
   margin-top: 1.3rem;
   margin-bottom: 1rem;
